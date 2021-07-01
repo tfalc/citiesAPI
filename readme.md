@@ -95,15 +95,15 @@ Make the project using: [Spring.io](https://start.spring.io/)
 
 Choose to use:
 
-- [ ] Java 8
-- [ ] Gradle Project
-- [ ] Jar file
+- [x] Java 8
+- [x] Gradle Project
+- [x] Jar file
 
 On dependencies:
 
-- [ ] Spring Web
-- [ ] Spring Data JPA
-- [ ] PostgreSQL Driver
+- [x] Spring Web
+- [x] Spring Data JPA
+- [x] PostgreSQL Driver
 
 #### Types
 
