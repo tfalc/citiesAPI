@@ -1,6 +1,6 @@
 # Geolocation API
 
-[TOC]
+API to calculate distance between cities.
 
 ## Requirements
 
