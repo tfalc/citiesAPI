@@ -11,7 +11,6 @@ API to calculate distance between cities.
     - Spring Data JPA
     - PostgreSQL Driver
 - Docker
-- Heroku CLI
 
 ------
 
@@ -110,5 +109,5 @@ On dependencies:
 - [JsonTypes](https://github.com/vladmihalcea/hibernate-types)
 - [UserType](https://docs.jboss.org/hibernate/orm/3.5/api/org/hibernate/usertype/UserType.html)
 
-## Heroku
+
 
